@@ -4,7 +4,7 @@
 
 - FlappyBird-using-Eye-Blink
 
-- deep learning (tip tac toe)
+- deep learning (tic tac toe)
 
 - babylon.js(game)
 
