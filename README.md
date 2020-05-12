@@ -2,10 +2,10 @@
 
 This is a program that is a addon to FlapPyBird that adds eye blinking to play the game and control the bird.
 
-###Overview
+### Overview
 
 
-###Installation
+### Installation
 
 
 ```shell
