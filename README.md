@@ -1,4 +1,4 @@
-## 108poss02: FlappyBird with Eyeblink
+## 108poss02: FlappyBird with Eyeblink detection
 
 ### Overview
 
