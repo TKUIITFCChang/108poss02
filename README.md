@@ -1,12 +1,6 @@
 # 108poss02
+# FlappyBird-using-Eye-Blink
 
-- face recognition
 
-- FlappyBird-using-Eye-Blink
 
-- deep learning (tip tac toe)
-
-- babylon.js(game)
-
-- three.js(game)
 
