@@ -13,4 +13,4 @@ $cd 108poss02
 $pip3 install -r requirements.txt
 ```
 
-###### eye blink detect logic: [PySource](https://pysource.com/2019/01/10/eye-blinking-detection-gaze-controlled-keyboard-with-python-and-opencv-p-2/)
+###### Eye blink detect logic: [PySource](https://pysource.com/2019/01/10/eye-blinking-detection-gaze-controlled-keyboard-with-python-and-opencv-p-2/)
