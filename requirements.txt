@@ -1,3 +1,4 @@
+cmake
 opencv_python
 dlib
 imutils
