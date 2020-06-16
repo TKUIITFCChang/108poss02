@@ -11,6 +11,7 @@ You will need python3 to run the program!
 $git clone https://github.com/TKUIITFCChang/108poss02.git
 $cd 108poss02
 $pip3 install -r requirements.txt
+$py flappy.py
 ```
 
 ###### Eye blink detect logic: [PySource](https://pysource.com/2019/01/10/eye-blinking-detection-gaze-controlled-keyboard-with-python-and-opencv-p-2/)
